@@ -1,1 +1,1 @@
-# data-analyst-portfolio
+# this repo caontains all the data analysis projects
